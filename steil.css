@@ -16,3 +16,7 @@ body { margin: 0; }
  */
 h1 { font-size: 4em; margin: .67em 0; }
 /* Grouping content
+... die Behälter 
+*/
+.rahmen { margin 3rem; }
+
